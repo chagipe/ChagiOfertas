@@ -1,14 +1,3 @@
-
-  /$$$$$$ /$$$$$$ /$$$$$$ /$$$$$$ /$$$$$$ /$$$$$$
- /$$__  $$|_  $$_/|_  $$_/|_  $$_/|_  $$_/| $$__  $$
-| $$  \__/  | $$    | $$    | $$    | $$  | $$  \ $$
-| $$ /$$$$  | $$    | $$    | $$    | $$  | $$$$$$$/
-| $$|_  $$  | $$    | $$    | $$    | $$  | $$__  $$
-| $$  \ $$  | $$    | $$    | $$    | $$  | $$  \ $$
-|  $$$$$$/ /$$$$$$  | $$   /$$$$$$ /$$$$$$| $$  | $$
- \______/ |______/  |__/  |______/|______/|__/  |__/
-
-
 <h1 align="center">🔥 ChagiOfertas — CSFloat Deal Hunter</h1>
 
 <p align="center">
@@ -133,6 +122,6 @@ Cada embed incluye:
 ---
 
 <p align="center">
-  Made with ❤️ and 🥟 by <b>Chagi</b><br>
+  Made with ❤️ by <b>Chagi</b><br>
   <sub>CSFloat no está afiliado ni respalda este proyecto.</sub>
 </p>
